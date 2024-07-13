@@ -1,6 +1,6 @@
 
 import streamlit as st
-import cv2
+from cv2 import cv2
 from fer import FER
 import numpy as np
 import pytz
