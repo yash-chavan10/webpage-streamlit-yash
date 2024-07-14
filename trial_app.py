@@ -1,4 +1,6 @@
-
+import sys
+import subprocess
+subprocess.check_call([sys.executable, "-m", "pip", "install", "opencv-python-headless==4.5.5.64"])
 import streamlit as st
 import cv2
 from fer import FER
