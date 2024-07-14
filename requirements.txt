@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless==4.5.5.64
-fer==22.4.0
+fer
 numpy==1.21.6
 pytz
 google-auth
