@@ -1,7 +1,7 @@
 streamlit
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
-fer=22.5.1
+fer
 numpy==1.26.4
 pytz
 google-auth
