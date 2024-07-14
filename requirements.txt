@@ -1,7 +1,7 @@
 streamlit
 opencv-python-headless==4.5.5.64
-fer
-numpy
+fer==22.4.0
+numpy==1.21.6
 pytz
 google-auth
 google-auth-oauthlib
